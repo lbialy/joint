@@ -1,0 +1,11 @@
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+*.log
+# User-specific stuff
+.idea/
